@@ -1,6 +1,6 @@
-# Sidekick Android Navigasyon Uygulaması
+# SideKick Android Navigasyon Uygulaması
 
-Sidekick, kullanıcıların sesli komutlarla rota belirleyip hedeflerine kolayca ulaşmalarını sağlayan, Mapbox ile entegre edilmiş bir Android navigasyon uygulamasıdır.
+SideKick, kullanıcıların sesli komutlarla rota belirleyip hedeflerine sesli yönlendirmelerle kolayca ulaşmalarını sağlayan, Mapbox ile entegre edilmiş bir Android navigasyon uygulamasıdır.
 
 ## Özellikler
 
@@ -8,7 +8,6 @@ Sidekick, kullanıcıların sesli komutlarla rota belirleyip hedeflerine kolayca
 - **Gerçek Zamanlı Konum Takibi**: Kullanıcının konumunu gerçek zamanlı izler ve kamerayı buna göre günceller.
 - **Sesli Yönlendirmeler**: Rota boyunca kullanıcıya sesli yönlendirmeler sunar.
 - **Mapbox Entegrasyonu**: Güçlü harita ve navigasyon servisleri sağlar.
-- **İzin Yönetimi**: Dinamik olarak gerekli izinleri talep eder ve yönetir.
 
 ## Kurulum ve Yapılandırma
 
