@@ -22,11 +22,11 @@ Sidekick, kullanıcıların sesli komutlarla rota belirleyip hedeflerine kolayca
 
 1. **Projeyi Klonlayın**:
    ```bash
-   git clone https://github.com/username/sidekick.git
-   cd sidekick
+   git clone https://github.com/aydogdu25/sidekick-navigasyon-uygulamasi.git
+cd sidekick-navigasyon-uygulamasi
 2. **API Anahtarınızı Girin**:
-   # app/src/main/res/values klasöründe bulunan developer-config.xml dosyasında belirtilen yere Mapbox API anahtarınızı kopyalayın.
-   # gradle.properties dosyasında belirtilen yere Mapbox API anahtarınızı kopyalayın.
+    app/src/main/res/values klasöründe bulunan developer-config.xml dosyasında belirtilen yere Mapbox API anahtarınızı kopyalayın.
+    gradle.properties dosyasında belirtilen yere Mapbox API anahtarınızı kopyalayın.
 
 3. **Kullanım**
-# Emülatörde veya bir mobil cihazda çalıştırmak için uygulamayı derleyin ve başlatın.
+ Emülatörde veya bir mobil cihazda çalıştırmak için uygulamayı derleyin ve başlatın.
