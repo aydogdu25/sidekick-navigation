@@ -28,5 +28,5 @@ SideKick, kullanıcıların sesli komutlarla rota belirleyip hedeflerine sesli y
     - `app/src/main/res/values` klasöründe bulunan `developer-config.xml` dosyasında belirtilen yere Mapbox API anahtarınızı kopyalayın.
     - `gradle.properties` dosyasında belirtilen yere Mapbox API anahtarınızı kopyalayın.
 
-3. **Kullanım**
- - Emülatörde veya bir mobil cihazda çalıştırmak için uygulamayı derleyin ve başlatın.
+3. **Kullanım**:
+    - Emülatörde veya bir mobil cihazda çalıştırmak için uygulamayı derleyin ve başlatın.
