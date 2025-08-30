@@ -1,4 +1,4 @@
-# SideKick Navigasyon Uygulaması (Android)
+# SideKick Navigasyon (Android)
 
 SideKick, kullanıcıların sesli komutlarla rota belirleyip hedeflerine sesli yönlendirmelerle kolayca ulaşmalarını sağlayan, Mapbox ile entegre edilmiş bir Android navigasyon uygulamasıdır.
 
@@ -21,8 +21,8 @@ SideKick, kullanıcıların sesli komutlarla rota belirleyip hedeflerine sesli y
 
 1. **Projeyi Klonlayın**:
    ```bash
-   git clone https://github.com/aydogdu25/sidekick-navigasyon-uygulamasi.git
-   cd sidekick-navigasyon-uygulamasi
+   git clone https://github.com/aydogdu25/sidekick-navigation.git
+   cd sidekick-navigation
 
 2. **API Anahtarınızı Girin**:
     - `app/src/main/res/values` klasöründe bulunan `developer-config.xml` dosyasında belirtilen yere Mapbox API anahtarınızı kopyalayın.
