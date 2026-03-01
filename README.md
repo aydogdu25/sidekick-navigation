@@ -38,11 +38,9 @@ SideKick, kullanıcıların sesli komutlarla rota belirleyip hedeflerine sesli y
 ## 🖼️ Ekran Görüntüleri
 
 **Giriş Ekranı:**
-
-![Giriş Ekranı](screenshots/1.jpeg)
+<img src="screenshots/1.jpeg" width="300">
 
 **Navigasyon Ekranı:**
-
-![Navigasyon Ekranı](screenshots/2.jpeg)
+<img src="screenshots/2.jpeg" width="300">
 
 ---
