@@ -2,6 +2,8 @@
 
 SideKick, kullanıcıların sesli komutlarla rota belirleyip hedeflerine sesli yönlendirmelerle kolayca ulaşmalarını sağlayan, Mapbox ile entegre edilmiş bir Android navigasyon uygulamasıdır.
 
+---
+
 ## Özellikler
 
 - **Sesli Komut ile Adres Girişi**: Kullanıcılar sesli komut kullanarak adres girebilir ve rota oluşturabilir.
@@ -30,3 +32,17 @@ SideKick, kullanıcıların sesli komutlarla rota belirleyip hedeflerine sesli y
 
 3. **Kullanım**:
     - Emülatörde veya bir mobil cihazda çalıştırmak için uygulamayı derleyin ve başlatın.
+
+---
+
+## 🖼️ Ekran Görüntüleri
+
+**Giriş Ekranı:**
+
+![Giriş Ekranı](screenshots/1.jpeg)
+
+**Navigasyon Ekranı:**
+
+![Navigasyon Ekranı](screenshots/2.jpeg)
+
+---
